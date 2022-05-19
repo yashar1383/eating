@@ -1,4 +1,5 @@
 from random import random
+#Queen Branch Developed main
 class Gubamba():
     List = []
     population = 0
