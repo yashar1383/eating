@@ -1,5 +1,5 @@
 from random import random
-# end imports
+# end import
 #start body
 class Gubamba():
     List = []
