@@ -1,3 +1,2 @@
 # eating
-This repository was made for class homework
-XD
+This repository has made for class homework XD
